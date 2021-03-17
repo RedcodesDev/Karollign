@@ -1,0 +1,59 @@
+Anweisung ObenLinksAusrichten
+wiederhole solange nicht IstWesten
+LinksDrehen
+*wiederhole
+Wiederhole solange NichtIstWand
+Schritt
+*wiederhole
+RechtsDrehen
+Wiederhole solange NichtIstWand
+Schritt
+*wiederhole
+LinksDrehen
+LinksDrehen
+*Anweisung
+
+Anweisung UntenRechtsAusrichten
+wiederhole solange nicht IstOsten
+LinksDrehen
+*wiederhole
+Wiederhole solange NichtIstWand
+Schritt
+*wiederhole
+RechtsDrehen
+Wiederhole solange NichtIstWand
+Schritt
+*wiederhole
+LinksDrehen
+LinksDrehen
+*Anweisung
+
+Anweisung UntenLinksAusrichten
+wiederhole solange nicht IstWesten
+LinksDrehen
+*wiederhole
+Wiederhole solange NichtIstWand
+Schritt
+*wiederhole
+LinksDrehen
+Wiederhole solange NichtIstWand
+Schritt
+*wiederhole
+LinksDrehen
+LinksDrehen
+*Anweisung
+
+Anweisung ObenRechtsAusrichten
+wiederhole solange nicht IstOsten
+LinksDrehen
+*wiederhole
+Wiederhole solange NichtIstWand
+Schritt
+*wiederhole
+LinksDrehen
+Wiederhole solange NichtIstWand
+Schritt
+*wiederhole
+LinksDrehen
+LinksDrehen
+*Anweisung
